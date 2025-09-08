@@ -52,3 +52,11 @@ Better alignment between sales, finance, and supply chain.
 
 🏆 Outcome
 The final Power BI report delivers clear, actionable insights, helping AtliQ Hardware shift from gut-feel decisions to a data-driven culture. This project provided a full, end-to-end experience, from raw data to final report delivery.
+
+Data Model
+Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
+Poor data modeling affects the over all performance of the report.
+Following Good practices of data modeling is must. Refer this page to get to know the good practices Blog
+In this project, we have followed Snowfall data modeling method.
+
+<img width="1152" height="718" alt="image" src="https://github.com/user-attachments/assets/a3f3e177-13ab-4cff-ad18-793f6f3b6be0" />
