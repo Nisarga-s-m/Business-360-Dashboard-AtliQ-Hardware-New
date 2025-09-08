@@ -1,4 +1,4 @@
-![Products View](https://github.com/user-attachments/assets/cac72fb9-03c4-48e9-ada9-6b02d74741de)
+
 📈 Business Insights 360 – Power BI Project
 💡 Project Goal
 AtliQ Hardware wanted to move from intuition to data-driven decision-making. This project implemented Power BI dashboards to give key stakeholders in finance, sales, and supply chain the insights they need to succeed.
