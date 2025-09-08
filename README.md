@@ -1,4 +1,4 @@
-
+![Products View](https://github.com/user-attachments/assets/cac72fb9-03c4-48e9-ada9-6b02d74741de)
 📈 Business Insights 360 – Power BI Project
 💡 Project Goal
 AtliQ Hardware wanted to move from intuition to data-driven decision-making. This project implemented Power BI dashboards to give key stakeholders in finance, sales, and supply chain the insights they need to succeed.
@@ -77,19 +77,25 @@ Products
 Support
 Overall Report
 ![Overall](https://github.com/user-attachments/assets/a09e1458-c14f-4880-a919-2527e40fbc7c)
-
 INFO PAGE
-https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif
+![Info](https://github.com/user-attachments/assets/8316f04e-b840-4a4f-98ab-356ef2bb7acc)
+
 FINANCE VIEW
-https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif
+![Finace](https://github.com/user-attachments/assets/becd028c-2055-4f2d-9d51-415664aee384)
+
 SALES VIEW
-https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif
+![Sales](https://github.com/user-attachments/assets/ef8ae726-23c8-451e-975b-c3553f3460f4)
+
 MARKETING VIEW
-https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif
+![Marketing](https://github.com/user-attachments/assets/f9e6742d-ba71-4073-b120-e3400d4525e3)
+
 SUPPLY CHAIN VIEW 
-https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif
+![supply chain](https://github.com/user-attachments/assets/55308305-0021-4e1e-bd31-c912da6b09c1)
+
 EXECUTIVE VIEW
+![Executive](https://github.com/user-attachments/assets/cfd69598-7241-4096-9108-cf97a080c015)
 
 PRODUCTS 
+![Products View](https://github.com/user-attachments/assets/1f6f3541-e36f-4065-a31d-17a5ccffbf3c)
 
 
