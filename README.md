@@ -76,7 +76,8 @@ Executive View
 Products
 Support
 Overall Report
-https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif
+![Overall](https://github.com/user-attachments/assets/a09e1458-c14f-4880-a919-2527e40fbc7c)
+
 INFO PAGE
 https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif
 FINANCE VIEW
@@ -87,4 +88,8 @@ MARKETING VIEW
 https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif
 SUPPLY CHAIN VIEW 
 https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif
+EXECUTIVE VIEW
+
+PRODUCTS 
+
 
