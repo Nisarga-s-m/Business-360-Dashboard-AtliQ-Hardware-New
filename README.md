@@ -60,3 +60,31 @@ Following Good practices of data modeling is must. Refer this page to get to kno
 In this project, we have followed Snowfall data modeling method.
 
 <img width="1152" height="718" alt="image" src="https://github.com/user-attachments/assets/a3f3e177-13ab-4cff-ad18-793f6f3b6be0" />
+
+Dashboard designing
+Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
+
+Home view
+In Home view, all the views button will be available. User will land on specific view page by clicking the button
+
+Info
+Finance View
+Sales View
+Marketing View
+Supply chain View
+Executive View
+Products
+Support
+Overall Report
+https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif
+INFO PAGE
+https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif
+FINANCE VIEW
+https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif
+SALES VIEW
+https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif
+MARKETING VIEW
+https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif
+SUPPLY CHAIN VIEW 
+https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif
+
