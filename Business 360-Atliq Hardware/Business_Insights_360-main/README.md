@@ -6,6 +6,7 @@ AtliQ Hardware has been expanding rapidly in recent years. To stay ahead of comp
 I carried out this project as part of the Codebasics Power BI course. The project simulates a real-world corporate setup where data teams work closely with business leaders to define objectives, design dashboards, and provide value-driven analytics.
 
 
+Dasboard Link: https://app.powerbi.com/groups/me/reports/0f5756f8-adf2-4bea-b41b-ac7513900b13/ReportSection6b7f9720829a1d745700?experience=power-bi
 🔗 Course Link
 
 Tech Stack
